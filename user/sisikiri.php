@@ -33,6 +33,12 @@
               <span>Hasil Pertanian</span>
           </a>
         </li>
+        <li class="active">
+          <a href="../../user/klasterisasi/">
+            <i class="fa fa-archive"></i>
+              <span>Klasterisasi</span>
+          </a>
+        </li>
       </ul>
     </section>
     <!-- /.sidebar -->
